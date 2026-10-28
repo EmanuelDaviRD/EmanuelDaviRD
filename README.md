@@ -44,8 +44,16 @@ Meu objetivo é construir uma base sólida em Ciência da Computação e Engenha
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=EmanuelDaviRD&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelDaviRD&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api?username=EmanuelDaviRD&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="Estatísticas do GitHub"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EmanuelDaviRD&layout=compact&theme=github_dark&hide_border=true"
+    alt="Linguagens mais utilizadas"
+  />
 </p>
 
 ---
