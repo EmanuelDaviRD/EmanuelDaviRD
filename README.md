@@ -1,38 +1,39 @@
 
 # Emanuel Davi
 
-### Software Engineering Student | C Developer
+### Software Engineering Student | Aspiring Software Developer
 
-Software Engineering undergraduate at the **Federal Institute of Ceará (IFCE) — Acopiara Campus**, passionate about programming, algorithms, data structures, and efficient problem-solving.
+Software Engineering undergraduate at the **Federal Institute of Ceará (IFCE) — Acopiara Campus**, dedicated to learning, continuous improvement, and building a solid foundation in software development.
 
-My current studies focus on **C programming, dynamic memory allocation, pointers, data structures, and computational complexity**. I strive to develop efficient, modular, readable, and maintainable software while strengthening my foundations in computer science.
+I am constantly developing my technical skills, exploring new technologies, and applying software engineering principles through academic studies and practical projects. I believe that continuous learning, problem-solving, and clean code are essential to becoming a better software developer.
 
-My goal is to continuously improve my technical skills and apply software engineering principles to real-world problems.
+My goal is to grow as a professional, expand my knowledge, and contribute to the development of reliable, efficient, and well-structured software solutions.
 
 ---
 
 ## About Me
 
 - Software Engineering undergraduate at IFCE — Acopiara Campus.
-- Focused on C programming and fundamental computer science concepts.
-- Studying data structures, algorithms, pointers, and dynamic memory allocation.
-- Interested in algorithm optimization and computational complexity.
-- Committed to writing clean, efficient, and maintainable code.
+- Continuously improving my programming and software development skills.
+- Developing knowledge of algorithms, data structures, and software design.
+- Exploring programming concepts, development tools, and best practices.
+- Interested in problem-solving, software quality, and continuous learning.
+- Always looking for opportunities to learn, build, and improve.
 
 ---
 
 ## Technologies and Tools
 
-**Programming Language**
+**Programming Languages**
 - C
 
-**Core Concepts**
+**Areas of Study**
 - Data Structures and Algorithms
-- Pointers and Memory Management
-- Dynamic Memory Allocation
-- Algorithm Analysis and Computational Complexity
-- Modular Programming
+- Software Development
 - Problem Solving
+- Memory Management
+- Algorithm Analysis
+- Software Design Principles
 
 **Development Tools**
 - Git and GitHub
@@ -45,35 +46,34 @@ My goal is to continuously improve my technical skills and apply software engine
 
 <p align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=EmanuelDaviRD&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api?username=EmanuelDaviRD&show_icons=true&theme=github_dark&hide_border=true"
     alt="GitHub Statistics"
     height="180"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EmanuelDaviRD&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelDaviRD&layout=compact&theme=github_dark&hide_border=true"
     alt="Most Used Languages"
     height="180"
   />
 </p>
 
-
 ---
 
 ## Projects
 
-My repositories document my learning journey in software engineering, featuring C programming exercises, data structure implementations, algorithmic solutions, and projects focused on computational problem-solving.
+My repositories reflect my journey as a Software Engineering student, showcasing academic projects, programming exercises, and practical implementations developed throughout my learning process.
 
-I aim to continuously improve code quality, efficiency, readability, and software design through hands-on practice.
+Each project is an opportunity to strengthen my skills, explore new concepts, and improve my approach to writing readable, maintainable, and efficient code.
 
 ---
 
 ## Contact
 
 - **Academic Email:** [emanuel.davi07@aluno.ifce.edu.br](mailto:emanuel.davi07@aluno.ifce.edu.br)
-- **GitHub Profile:** [EmanuelDaviRD](https://github.com/EmanuelDaviRD)
+- **GitHub:** [EmanuelDaviRD](https://github.com/EmanuelDaviRD)
 
 ---
 
 <p align="center">
-  <i>Learning, building, and improving through code.</i>
+  <i>Always learning. Always improving. Building one step at a time.</i>
 </p>
