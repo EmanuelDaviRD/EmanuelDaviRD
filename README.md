@@ -1,20 +1,58 @@
-# Olá, sou o Emanuel Davi 👋
+Emanuel Davi
+Software Engineering Student | C Developer | Algorithms & Data Structures
 
-```c
-#include <stdio.h>
+Estudante de Bacharelado em Engenharia de Software no Instituto Federal do Ceará (IFCE) — Campus Acopiara, com interesse em desenvolvimento de software, programação de baixo nível e resolução eficiente de problemas computacionais.
 
-int main() {
-    printf("Estudante de Computação no IFCE - Campus Acopiara\n");
-    printf("Focado em Linguagem C, Estruturas de Dados e Algoritmos\n");
-    return 0;
-}
-🚀 Sobre Mim
-🎓 A cursar Computação no IFCE - Campus Acopiara
+Atualmente, concentro meus estudos em Linguagem C, alocação dinâmica de memória, estruturas de dados, algoritmos e análise de complexidade, buscando desenvolver soluções eficientes, organizadas e escaláveis.
 
-💻 Focado em Linguagem C, Alocação Dinâmica, Estruturas de Dados e Análise de Complexidade
+Meu objetivo é construir uma base sólida em Ciência da Computação e Engenharia de Software, aplicando boas práticas de programação e aprimorando continuamente minhas habilidades técnicas.
 
-🎯 Objetivo: Desenvolver código eficiente, modular e de alto desempenho
+About Me
+Undergraduate student in Software Engineering at IFCE — Acopiara Campus.
+Focused on C programming and fundamental computer science concepts.
+Studying dynamic memory allocation, data structures and algorithms.
+Interested in algorithm optimization, computational complexity and software quality.
+Constantly improving my problem-solving and software development skills.
+Technologies & Tools
 
-🛠️ Tecnologias & Ferramentas
-📊 Estatísticas do GitHub
-📫 Contacto: emanuel.davi07@aluno.ifce.edu.br
+Programming Languages
+
+C
+
+Core Concepts
+
+Data Structures
+Algorithms and Problem Solving
+Dynamic Memory Allocation
+Pointers and Memory Management
+Algorithm Analysis and Computational Complexity
+Modular Programming
+
+Tools & Environment
+
+Git
+GitHub
+Linux
+GCC
+GitHub Statistics
+
+<p align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
+</p>
+
+Featured Projects
+
+Here you can find projects developed throughout my learning journey, including exercises, implementations of data structures, algorithmic solutions and experiments with the C programming language.
+
+My focus is on writing readable, efficient and maintainable code while strengthening my understanding of software engineering principles.
+
+Contact
+
+Academic Email: emanuel.davi07@aluno.ifce.edu.br
+
+GitHub: github.com/SEU_USUARIO
+
+<p align="center">
+<i>Building a strong foundation in software engineering, one line of code at a time.</i>
+</p>
