@@ -37,8 +37,8 @@ GCC
 GitHub Statistics
 
 <p align="center">
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=EmanuelDaviRD&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelDaviRD&layout=compact&theme=github_dark&hide_border=true" alt="Most used programming languages" />
 </p>
 
 Featured Projects
