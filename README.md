@@ -45,16 +45,17 @@ My goal is to continuously improve my technical skills and apply software engine
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=EmanuelDaviRD&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
-    alt="Emanuel Davi's GitHub Statistics"
+    src="https://github-stats-extended.vercel.app/api?username=EmanuelDaviRD&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="GitHub Statistics"
     height="180"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelDaviRD&layout=compact&theme=github_dark&hide_border=true"
-    alt="Most Used Programming Languages"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=EmanuelDaviRD&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"
+    alt="Most Used Languages"
     height="180"
   />
 </p>
+
 
 ---
 
